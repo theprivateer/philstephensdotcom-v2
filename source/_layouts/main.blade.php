@@ -67,5 +67,9 @@
         <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
 
         @stack('scripts')
+
+        @if ($page->production)
+            <script src="https://tinylytics.app/embed/Uqy-oY8u15ysRHkWC92s.js" defer></script>
+        @endif
     </body>
 </html>
