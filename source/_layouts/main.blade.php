@@ -17,10 +17,6 @@
         <link rel="icon" href="/assets/img/KoFiProfilePicPhilStephens01-orange1.png">
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="{{ $page->siteName }} Atom Feed">
 
-        @if ($page->production)
-            <!-- Insert analytics code here -->
-        @endif
-
         <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
     </head>
@@ -30,14 +26,12 @@
             <div class="container flex items-center max-w-8xl mx-auto px-4 lg:px-8">
                 <div class="flex items-center">
                     <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
-                        {{-- <img class="h-8 md:h-10 mr-3" src="/assets/img/logo.svg" alt="{{ $page->siteName }} logo" /> --}}
-
                         <h1 class="text-lg md:text-2xl text-gray-700 font-semibold hover:text-blue-800 my-0">{{ $page->siteName }}</h1>
                     </a>
                 </div>
 
                 <div id="vue-search" class="flex flex-1 justify-end items-center">
-                    <search></search>
+                    {{-- <search></search> --}}
 
                     @include('_nav.menu')
 
