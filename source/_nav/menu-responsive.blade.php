@@ -9,6 +9,13 @@
         </li>
         <li class="pl-4">
             <a
+                title="{{ $page->siteName }} Digital Garden"
+                href="/digital-garden"
+                class="block mt-0 mb-4 text-sm no-underline {{ $page->isActive('/digital-garden') ? 'active text-blue-500' : 'text-gray-800 hover:text-blue-500' }}"
+            >Digital Garden</a>
+        </li>
+        <li class="pl-4">
+            <a
                 title="{{ $page->siteName }} About"
                 href="/about"
                 class="block mt-0 mb-4 text-sm no-underline {{ $page->isActive('/about') ? 'active text-blue-500' : 'text-gray-800 hover:text-blue-500' }}"

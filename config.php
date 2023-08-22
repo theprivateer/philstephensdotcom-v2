@@ -32,6 +32,9 @@ return [
                 });
             },
         ],
+        'digital-garden' => [
+            'path' => '/{filename}',
+        ],
     ],
 
     // helpers
