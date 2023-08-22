@@ -74,6 +74,9 @@ date: 2023-08-22
 - Apple Watch Ultra, with Nomad sports strap
 - AirPods (3rd generation)
 - Kobo Libra 2 eReader
+
+## Health / Wellbeing
+
 - Theragun Pro
 - Withings ScanWatch
 - Withings Body Cardio smart scale
@@ -93,13 +96,13 @@ date: 2023-08-22
 
 ## Bikes
 
-### Avanti Cadent ER2 3.0 road bike
+### Avanti Cadent ER2 3.0 carbon road bike
 
 - Fizik Tempo Argo R5 saddle
 - Shimano Ultegra SPD-SL pedals
 - POC Ventral Air MIPS helmet
 
-### Trek X-Caliber 9 hard-tail 29er MTB
+### Trek X-Caliber 9 hardtail 29er MTB
 
 - Shimano Deore M8120 pedals
 - Bontrager Rally MIPS helmet
