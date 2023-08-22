@@ -1,7 +1,7 @@
 ---
 extends: _layouts.page
 section: content
-title: Uses
+title: Stuff I Use
 date: 2023-08-22
 ---
 
@@ -21,10 +21,10 @@ date: 2023-08-22
 ### Development
 
 - [Visual Studio Code](/vs-code)
-- TablePlus
+- [TablePlus](https://tableplus.com)
 - Safari
-- Tinkerwell
-- Laravel Herd
+- [Tinkerwell](https://tinkerwell.app)
+- [Laravel Herd](https://herd.laravel.com)
 - Terminal.app
 
 ### Work
@@ -38,19 +38,19 @@ date: 2023-08-22
 ### Life
 
 - Apple Music
-- HEY
-- Things
-- Drafts
+- [HEY](https://hey.com)
+- [Things](https://culturedcode.com/things/)
+- [Drafts](https://getdrafts.com)
 - 1Password
-- iA Writer
+- [iA Writer](https://ia.net/writer)
 - Apple Notes
-- Anybox
-- Reeder
+- [Anybox](https://anybox.app)
+- [Reeder](https://reederapp.com)
 
 ### Miscellaneous
 
-- One Switch
-- Hand Mirror
+- [One Switch](https://fireball.studio/oneswitch/)
+- [Hand Mirror](https://handmirror.app)
 
 ## Workspace
 
@@ -75,6 +75,10 @@ date: 2023-08-22
 - AirPods (3rd generation)
 - Kobo Libra 2 eReader
 
+## Networking
+
+- Asus ZenWiFi XD6 Mesh WiFi
+
 ## Health / Wellbeing
 
 - Theragun Pro
@@ -89,6 +93,7 @@ date: 2023-08-22
 - Netflix
 - Feedbin
 - Netlify
+- [omg.lol](https://omg.lol)
 
 ---
 

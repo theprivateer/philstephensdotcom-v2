@@ -10,4 +10,4 @@ title: My Digital Garden
 
 ### Miscellaneous
 
-- [Uses](/uses)
+- [Stuff I Use](/uses)
