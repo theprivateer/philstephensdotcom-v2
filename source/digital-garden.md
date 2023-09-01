@@ -11,3 +11,5 @@ title: My Digital Garden
 ### Miscellaneous
 
 - [Stuff I Use](/uses)
+- [Bookshelf](/books)
+- [Blogs](/blogs)

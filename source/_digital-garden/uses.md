@@ -91,8 +91,8 @@ date: 2023-08-22
 - iCloud
 - Apple TV+
 - Netflix
-- Feedbin
-- Netlify
+- [Feedbin](https://feedbin.com)
+- [Netlify](https://netlify.com)
 - [omg.lol](https://omg.lol)
 
 ---
@@ -119,6 +119,6 @@ date: 2023-08-22
 ## Tech
 
 - Wahoo ELEMNT BOLT cycle computer
-- Wahoo TICKR FIT heart rate monitor
-- Wahoo KICKR SNAP smart trainer
+- Wahoo TICKR FIT optical heart rate monitor
+- Wahoo KICKR SNAP wheel-on smart trainer
 - a variety of Wahoo cadence sensors
