@@ -26,6 +26,7 @@ date: 2023-08-22
 - [Tinkerwell](https://tinkerwell.app)
 - [Laravel Herd](https://herd.laravel.com)
 - Terminal.app
+- [Bruno](https://www.usebruno.com)
 
 ### Work
 
