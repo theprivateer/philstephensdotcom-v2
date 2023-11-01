@@ -2,7 +2,7 @@
 extends: _layouts.page
 section: content
 title: Stuff I Use
-date: 2023-08-22
+date: 2023-11-02
 ---
 
 # Work

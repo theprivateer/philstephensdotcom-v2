@@ -2,7 +2,7 @@
 extends: _layouts.page
 section: content
 title: Blogs
-date: 2023-09-01
+date: 2023-11-02
 ---
 
 ## Blogs I Like
