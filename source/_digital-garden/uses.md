@@ -2,7 +2,7 @@
 extends: _layouts.page
 section: content
 title: Stuff I Use
-date: 2023-11-02
+date: 2023-11-05
 ---
 
 # Work
@@ -92,6 +92,7 @@ date: 2023-11-02
 - iCloud
 - Apple TV+
 - Netflix
+- Paramount+ (mainly for [A-Leagues](https://aleagues.com.au) coverage)
 - [Feedbin](https://feedbin.com)
 - [Netlify](https://netlify.com)
 - [omg.lol](https://omg.lol)
