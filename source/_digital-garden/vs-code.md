@@ -7,7 +7,7 @@ date: 2023-11-02
 
 ## Theme
 
-I use [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme) with [Geist Mono](https://vercel.com/font/mono) as my font.
+I use the [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme) with [Geist Mono](https://vercel.com/font/mono) as my font.
 
 My custom settings are inspired by [Caleb Porzio](https://makevscodeawesome.com) and make my editor pretty minimal, and I rely heavily on some custom keyboard bindings boost productivity:
 
