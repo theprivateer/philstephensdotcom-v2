@@ -32,7 +32,7 @@ return [
                 });
             },
         ],
-        'digital-garden' => [
+        'pages' => [
             'path' => '/{filename}',
         ],
     ],
