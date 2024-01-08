@@ -51,10 +51,6 @@
                 <li class="md:mr-2">
                     &copy; Phil Stephens {{ date('Y') }}.
                 </li>
-
-                <li>
-                    <a href="https://archive.philstephens.com">Blog Archive</a>
-                </li>
             </ul>
         </footer>
 
